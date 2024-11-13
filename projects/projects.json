@@ -1,0 +1,11 @@
+[
+  {
+    "name": "HUUT",
+    "desc": "Huut is a voice-first social media platform supporting all forms of media, which connects people from all over the world to build a diverse global community, united by voice. Huut reimagines a new world by bringing back the power of voice towards humanizing the social media experience.",
+    "image": "assets/images/projects/huut01.png",
+    "category": "Web APP",
+    "links": {
+      "view": "https://huut.com/"
+    }
+  }
+]
